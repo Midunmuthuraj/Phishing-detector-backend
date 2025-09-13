@@ -1,0 +1,6 @@
+flask
+flask-core
+imaplib2
+scikit-learn
+pandas
+numpy
